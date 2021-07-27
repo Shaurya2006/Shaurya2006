@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Shaurya2006
+- 👀 I’m interested in physics and maths(but I am not a pro, I am still in learner state)
+- 🌱 I’m currently learning python(not regularly, whenever I get time, I learn)
